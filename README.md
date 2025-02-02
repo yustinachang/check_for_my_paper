@@ -1,5 +1,5 @@
 # check_for_my_paper
-My study for Deep Learning on Computer Vision in Mammography at IWAIT 2025.  
+My study for Deep Learning on Computer Vision in Mammography at IWAIT 2025 as **Best Paper**.  
 "A YOLO-based Model for Breast Calcification Areas Detection in Screening Mammography"  
 
 ### file introduction
